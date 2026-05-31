@@ -1,0 +1,9 @@
+numpy
+pandas
+scipy
+matplotlib
+astropy
+sunpy[all]
+h5py
+ipykernel
+pytest
